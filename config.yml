@@ -1,0 +1,15 @@
+# GRAPPLING HOOKS CONFIG - DELETE THIS IF UPDATING TO A NEWER VERSION
+use-permissions: true
+max-distance: 32
+
+allow-grapple: true
+reduce-fall-damage: true
+damage-reduction-percent: .5
+grapple-velocity-percent: .4
+grapple-velocity-Y-compensation: .5
+
+allow-hook: true
+allow-pull: true
+hook-velocity-percent: .25
+hook-velocity-Y-compensation: .7
+pull-velocity-percent: .15
